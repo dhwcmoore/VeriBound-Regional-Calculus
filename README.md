@@ -240,4 +240,4 @@ MIT License
 
 ## Contact
 
-Duston Moore — dustonmoore@protonmail.com
+Duston Moore — dhwcmoore@gmail.com
