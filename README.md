@@ -209,7 +209,7 @@ make
 | CechCocycle.v | Cocycle theorem | ◐ Admitted |
 | EdgeCompletion.v | Associativity, universal property | ◐ Admitted |
 | Examples/DualNumbers.v | Δ calculation | ✓ Complete |
-| Examples/S3NonVanishing.v | Non-vanishing | ◐ Partial |
+| Examples/S3NonVanishing.v | Non-vanishing | ✓ Complete |
 
 ## Dependencies
 
